@@ -111,8 +111,8 @@ class CommonAction extends Action
 		$this->common_url['group_category_all'] = $this->config['site_url'] . '/category/all/all';
 		// $this->static_path =  '/static/default/'  ;
 		// $this->static_public =  '/static/';
-		$this->static_path = '/static/default/' ;
-		$this->static_public =  '/static/';
+		$this->static_path = 'http://img.hiyefu.com'.'/static/default/' ;
+		$this->static_public =  'http://img.hiyefu.com'.'/static/';
 		
 		     
 		$this->assign('static_path', $this->static_path);
