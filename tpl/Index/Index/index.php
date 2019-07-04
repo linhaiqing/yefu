@@ -71,7 +71,7 @@
          <ul class="food_memu">
             <li><a href="yiqicha.html?cat_id=30" title="水果茶"><p>水果茶</p></a></li>
              <li ><a href="yiqicha.html?cat_id=31" title="花与钻石"><p>花与钻石</p></a></li>
-             <li ><a href="yiqicha.html?cat_id=34" title="气泡"><p>气泡</p></a></li>
+             <li ><a href="yiqicha.html?cat_id=34" title="气泡水"><p>气泡水</p></a></li>
              <li ><a href="yiqicha.html?cat_id=33" title="椰碗"><p>椰碗</p></a></li>
              <li ><a href="yiqicha.html?cat_id=35" title="随心杯"><p>随心杯</p></a></li>
              <li ><a href="yiqicha.html?cat_id=32" title="椰奶"><p>椰奶</p></a></li>
