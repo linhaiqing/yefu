@@ -60,9 +60,9 @@
                              <li ><a href="yefu.html?cat_id=35" title="随心杯">随心杯</a></li>
                              <li ><a href="yefu.html?cat_id=32" title="椰奶">椰奶</a></li>
                              <li ><a href="yefu.html?cat_id=37" title="舒芙蕾">舒芙蕾</a></li>
-                             <li ><a href="yefu.html?cat_id=41" title="花环泡芙">花环泡芙</a></li>
-                             <li ><a href="yefu.html?cat_id=42" title="冰淇淋">冰淇淋</a></li>
-                             <li ><a href="yefu.html?cat_id=43" title="慕斯">慕斯</a></li>
+                             <li ><a href="yefu.html?cat_id=44" title="花环泡芙">花环泡芙</a></li>
+                             <li ><a href="yefu.html?cat_id=45" title="冰淇淋">冰淇淋</a></li>
+                             <li ><a href="yefu.html?cat_id=46" title="慕斯">慕斯</a></li>
                              
                              </ul>
 
