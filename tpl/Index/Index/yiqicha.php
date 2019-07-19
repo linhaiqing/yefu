@@ -44,17 +44,17 @@ $(document).ready(function() {
 <div class="FrontColumns_navigation01-d1_c1" data-unuse="1" style="height: 46px;border: 0;width: 2400px;">
     <ul class="nav-first">
 
-        <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=30" title="水果茶">水果茶</a></li>
-         <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=31" title="花与钻石">花与钻石</a></li>
-         <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=34" title="气泡水">气泡水</a></li>
-         <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=33" title="椰碗">椰碗</a></li>
-         <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=35" title="随心杯">随心杯</a></li>
-         <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=32" title="椰奶">椰奶</a></li>
-         <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=37" title="舒芙蕾">舒芙蕾</a></li>
-          <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=44" title="花环泡芙">花环泡芙</a></li>
+        <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=30" title="霸气水果茶">霸气水果茶</a></li>
+         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=31" title="透明的海">透明的海</a></li>
+         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=34" title="梦幻气泡水">梦幻气泡水</a></li>
+         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=33" title="椰碗">椰碗</a></li>
+         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=35" title="随心杯">随心杯</a></li>
+         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=32" title="珊瑚椰奶">珊瑚椰奶</a></li>
+         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=47" title="舒芙蕾">舒芙蕾</a></li>
+          <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=44" title="花环泡芙">花环泡芙</a></li>
          
-           <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=45" title="冰淇淋">冰淇淋</a></li>
-           <li style="margin-left: 50px"><a href="yiqicha.html?cat_id=46" title="慕斯">慕斯</a></li>
+           <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=45" title="冰淇淋">冰淇淋</a></li>
+           <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=46" title="慕斯">慕斯</a></li>
          
 
     </ul></div>
