@@ -32,7 +32,7 @@
                                                 <i class="icon-folder-open"></i>
                                                 <a href="/news.aspx">新闻动态</a>
                                                 </span>
-                                                阅读 {$vo.click} 次
+                                                <span style="display: none;">阅读 {$vo.click} 次</span>
                                             </div>
                                         </div>
                                         <header class="entry-header">
